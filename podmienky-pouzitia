@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style>.dismissButton{background-color:#fff;border:1px solid #dadce0;color:#1a73e8;border-radius:4px;font-family:Roboto,sans-serif;font-size:14px;height:36px;cursor:pointer;padding:0 24px}.dismissButton:hover{background-color:rgba(66,133,244,0.04);border:1px solid #d2e3fc}.dismissButton:focus{background-color:rgba(66,133,244,0.12);border:1px solid #d2e3fc;outline:0}.dismissButton:hover:focus{background-color:rgba(66,133,244,0.16);border:1px solid #d2e2fd}.dismissButton:active{background-color:rgba(66,133,244,0.16);border:1px solid #d2e2fd;box-shadow:0 1px 2px 0 rgba(60,64,67,0.3),0 1px 3px 1px rgba(60,64,67,0.15)}.dismissButton:disabled{background-color:#fff;border:1px solid #f1f3f4;color:#3c4043}
+</style><style>.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}
+</style><style>.gm-control-active>img{box-sizing:content-box;display:none;left:50%;pointer-events:none;position:absolute;top:50%;transform:translate(-50%,-50%)}.gm-control-active>img:nth-child(1){display:block}.gm-control-active:hover>img:nth-child(1),.gm-control-active:active>img:nth-child(1){display:none}.gm-control-active:hover>img:nth-child(2),.gm-control-active:active>img:nth-child(3){display:block}
+</style><link type="text/css" rel="stylesheet" href="./Carboland/css"><style>.gm-ui-hover-effect{opacity:.6}.gm-ui-hover-effect:hover{opacity:1}
+</style><style>.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px;box-sizing:border-box}
+</style><style>@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style>.gm-style-pbc{transition:opacity ease-in-out;background-color:rgba(0,0,0,0.45);text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
+</style><style>.gm-style img{max-width: none;}.gm-style {font: 400 11px Roboto, Arial, sans-serif; text-decoration: none;}</style>
+<title>Podmienky použitia</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="keywords" content="Carboland, Carboland s.r.o., Spoločnosť Carboland, Firma Carboland, Uhlíkové vlákno, Výroba z Karbónu, karbón výroba, Carbón, Fibre, Carbon Fibre, Karbón, Karbónové, Karbónové výrobky, Výrobky z Karbónu, Práca na Karbóne, Karbónové Vlákno, Composit, Kevlar, Aramid, Vacuum infusion, carboland.sk, Carboland SK, Carboland výroba, Carboland sro, Carboland sro, Česká republika, výroba z karbónu v Českej republike, uhlíkové vlákno Česká republika, výroba ČR, výroba, uhlík, Carbon určený pre teba, vysoká odolnosť , odolnosť výrobku, carbon odolnosť" />
+<meta name="distribution" content="global" />
+<meta name="application-name" content="Podmienky použitia" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow, snippet, archive" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="viewport" content="width=device-width" />
+<meta name="publisher" content="Carboland s.r.o." />
+<meta name="og:phone_number" content="+420 732 272 375" />
+<meta name="og:email" content="info@carboland.sk" />
+<meta name="subject" content="Carboland s.r.o." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Podmienky použitia" />
+<meta name="coverage" content="Slovensko" />
+<meta property="og:title" content="Podmienky použitia" />
+<meta property="og:url" content="https://www.carboland.sk/podmienky-použitia" />
+<meta property="og:site_name" content="Podmienky použitia" />
+<meta property="og:type" content="website" />
+<meta property="article:tag" content="Carboland, Carboland s.r.o., Spoločnosť Carboland, Firma Carboland, Uhlíkové vlákno, Výroba z Karbónu, karbón výroba, Carbón, Fibre, Carbon Fibre, Karbón, Karbónové, Karbónové výrobky, Výrobky z Karbónu, Práca na Karbóne, Karbónové Vlákno, Composit, Kevlar, Aramid, Vacuum infusion, carboland.sk, Carboland SK, Carboland výroba, Carboland sro, Carboland sro, Česká republika, výroba z karbónu v Českej republike, uhlíkové vlákno Česká republika, výroba ČR, výroba, uhlík, Carbon určený pre teba, vysoká odolnosť , odolnosť výrobku, carbon odolnosť" />
+<meta property="og:image" content="https://www.carboland.sk/Carboland/Carboland.jpg" />
+<meta property="og:latitude" content="49.14654840589657" />
+<meta property="og:longitude" content="17.82768260268157" />
+<meta property="og:street-address" content="Sehradice 217" />
+<meta property="og:locality" content="Sehradice" />
+<meta property="og:postal-code" content="763 23" />
+<meta property="og:country-name" content="Česká republika" />
+<link rel="icon" href="./Carboland/favicon.png" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./Carboland/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/menu.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/style.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/style1.css" id="colors" />
+<link rel="stylesheet" type="text/css" href="./Carboland/animation.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/owl.carousel.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="canonical" href="https://www.carboland.sk/podmienky-použitia" />
+<link rel="alternate" href="https://www.carboland.cz/podminky-pouziti" hreflang="cs-cz" />
+<link rel="alternate" href="https://www.carboland.de/nutzungsbedingungen" hreflang="de-de" />
+<link rel="alternate" href="https://www.carboland.at/nutzungsbedingungen" hreflang="de-at" />
+<link rel="alternate" href="https://www.carboland.eu/terms-of-use" hreflang="en-gb" />
+<link rel="alternate" href="https://www.carboland.ru/usloviya-ispolzovaniya" hreflang="ru-ru" />
+<link rel="alternate" href="https://www.carboland.sk/podmienky-pouzitia" hreflang="sk-sk" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HYXHVCSVK7"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-HYXHVCSVK7');
+</script>
+</head>
+<body oncopy="return false" oncut="return false" oncontextmenu="return false">
+<script type="text/javascript">
+var cpm = {};
+(function(h,u,b){
+var d=h.getElementsByTagName("script")[0],e=h.createElement("script");
+e.async=true;e.src='./Carboland/cookie-consent.js';
+e.onload=function(){u.cookiehub.load(b);};
+d.parentNode.insertBefore(e,d);
+})(document,window,cpm);
+</script>
+<div class="loder" style="display: none;">
+<div class="cssload-container">
+<div class="cssload-circle-1">
+<div class="cssload-circle-2">
+<div class="cssload-circle-3">
+<div class="cssload-circle-4">
+<div class="cssload-circle-5">
+<div class="cssload-circle-6">
+<div class="cssload-circle-7">
+<div class="cssload-circle-8">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wrapper">
+<header id="header" style="background: rgba(0, 0, 0, 0); padding: 20px 0px;">
+<div class="header navbar">
+<div class="container-fluid">
+<div id="navbarCollapse" class="navbar-collapse navbar-right">
+<!-- Menu Nav !-->
+</div>
+</div>
+</div>
+</header>
+<section id="podmienky-pouzitia" class="ptb_100">
+<div class="about">
+<div class="container">
+<div class="about-inner">
+<div class="row">
+<div class="col-md-7">
+<div class="about-text">
+<div class="about-heading-wrap">
+<br/>
+<h2 class="about-heading mb_40 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none; text-transform: uppercase;">Podmienky použitia</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Podmienky použitia</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Tieto podmienky používania sa vzťahujú na prezeranie a používanie týchto webových stránok (ďalej len Internetové stránky): <a href="https://www.carboland.sk/">www.carboland.sk</a></p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Prevádzkovateľom internetových stránok <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a> je <a href="https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=1002958&typ=UPLNY" target="_blank">Carboland s.r.o.</a>, spisová značka: C 104458 Krajský súd v Brne, IČO: 06818137, DIČ: CZ06818137, so sídlom <a href="https://www.google.sk/maps/place/Sehradice+217,+763+23+Sehradice/@49.1465221,17.8254644,17z/data=!3m1!4b1!4m5!3m4!1s0x4713706cec52a5b3:0xaff658778cd89a17!8m2!3d49.1465186!4d17.8276531?hl=sk" target="_blank">Sehradice 217, 763 23 Sehradice, Česká republika</a>, (ďalej len Prevádzkovateľ), ktorá je v súlade so zák. č. 121/2000 Zb., autorský zákon (ďalej len Autorský zákon) oprávnená vykonávať majetkové práva k týmto internetovým stránkam.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Internetová stránka <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a> sa riadi právom Českej republiky a české súdy sú príslušné na rozhodovanie všetkých prípadných sporov vzniknutých z používania internetovej stránky <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a>.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Prevádzkovateľovi patria všetky autorské práva k vlastnému obsahu, vrátane textu, fotografií, dizajnu internetových stránok, grafických prvkov, všetkých vyobrazení na týchto internetových stránkach, ako aj k výberu a spôsobu usporiadania súborov obsiahnutých na týchto stránkach.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Návštevník internetovej stránky (ďalej len Užívateľ) sa zaväzuje, že sa bude riadiť predpismi platnými na území Českej republiky, dobrými mravmi a týmito podmienkami, a že nebude poškodzovať dobré meno a práva prevádzkovateľa ani ostatných užívateľov.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">• Práva a povinnosti prevádzkovateľa a užívateľov pri používaní internetových stránok sa riadia týmito podmienkami:</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1. Užívateľ sa zaväzuje, že najmä nebude:</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.1. užívať ako celok, tak aj jednotlivé súčasti internetových stránok inak ako pre vlastnú potrebu;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.2. zasahovať do obsahu, technickej podstaty či bezpečnosti internetových stránok;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.3. zasahovať iným užívateľom do užívania internetových stránok a akýmkoľvek spôsobom im v použití brániť;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.4. zasielať na internetové stránky, alebo e-mailovú schránku info@carboland.sk správy obsahujúce vírusy, alebo akékoľvek nebezpečné či škodlivé programy;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.5. pokúšať sa získať prístup k častiam internetových stránok, ktoré sú vylúčené z používania verejnosti;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.6. šíriť na internetových stránkach akékoľvek správy či materiály porušujúce právne predpisy Českej republiky, dobré mravy, prípadne ohrozujúce verejný poriadok či svojim obsahom nezodpovedajúce záujmom prevádzkovateľa;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.7. vytvárať databázu (elektronickú alebo inú), ktorá obsahuje materiál stiahnutý alebo inak získaný z tejto internetovej stránky, pokiaľ to nie je výslovne povolené na tejto internetovej stránke;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.8. šíriť reklamy alebo na akékoľvek iné komerčné účely (čo by zahŕňalo používanie internetových stránok na propagáciu alebo podporu predaja vášho tovaru/služieb);</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.9. odovzdávať alebo znovu šíriť akýkoľvek materiál získaný z tejto internetovej stránky akejkoľvek tretej strane, pokiaľ to nie je na tejto internetovej stránke výslovne povolené;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.10. šíriť akúkoľvek nevyžiadanú alebo neoprávnenú reklamu, propagačné materiály, „nevyžiadanú poštu“, „spam“, „reťazové listy“, „pyramídové schémy“ alebo akúkoľvek inú formu žiadostí;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.11. šíriť akýkoľvek materiál, ktorý obsahuje softvérové vírusy alebo akýkoľvek iný počítačový kód, súbory alebo programy určené na prerušenie, poškodenie, zničenie alebo obmedzenie funkčnosti akéhokoľvek počítačového softvéru alebo hardvéru alebo telekomunikačného zariadenia;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.12.1. vytvárať alebo inak vkladať ilegálny obsah porušujúci právne predpisy Českej republiky alebo dobré mravy do internetových stránok, ktorý by mohli obsahovať:</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.12.1.1. Omamné a psychotropné látky, alebo predaj nelegálneho alebo regulovaného tovaru (Drogy, alkohol, tabakové výrobky, falošné zdravotné dokumentácie, strelné zbrane, kozmetické procedúry pre chudnutie, zvieratá);</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.12.1.2. Porušenie práv duševného vlastníctva, ochrannej známky alebo iných práv duševného vlastníctva akejkoľvek tretej strany;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.12.1.3. Šikanu, alebo iné obťažovanie či urážky, alebo násilie (Nenávistné slovné prejavy alebo symboly), týranie zvierat, smrť, samovraždu, sebapoškodzovanie, diskrimináciu na základe rasy, pohlavia, náboženstva, národnosti, zdravotného postihnutia, sexuálnej orientácie;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.12.1.4. Podvod(y) alebo nepravdivé informácie;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.12.1.5. Nahotu, pornografiu, alebo akúkoľvek inú sexuálnu aktivitu;</p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">1.12.1.6. Odkazy na také internetové stránky, ktoré porušujú právne predpisy Slovenskej republiky, dobré mravy a odkazy také, ktoré by mohli poškodiť inú osobu.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Prevádzkovateľ týmto vydáva podmienky na používanie internetových stránok (ďalej len Podmienky). Tieto Podmienky sa vzťahujú na všetky osoby, ktoré majú v úmysle používať príslušné internetové stránky. Pred používaním týchto internetových stránok sa preto prosím s obsahom Podmienok zoznámte.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Informácie obsiahnuté na týchto internetových stránkach sú iba informatívneho charakteru a sú určené pre verejnosť.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Prístup na internetové stránky môže byť zo strany Prevádzkovateľa úplne alebo čiastočne podmienený poskytnutím niektorých osobných údajov užívateľa v zmysle zák. č. 101/2000 Zb. o ochrane osobných údajov. V takom prípade bude Prevádzkovateľ s týmito údajmi nakladať v súlade s právnymi predpismi a vždy tak, aby zamedzil akejkoľvek ujme osoby, ktorej sa údaje týkajú. Preto sa, prosím, zoznámte so <a href="ochrana-osobnych-udajov" target="_blank">Zásadami o ochrane osobných údajov</a> (ďalej len Zásady). Odkaz na Zásady nájdete aj v pätičke tejto internetovej stránky pod názvom Ochrana osobných údajov.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Na správne zobrazenie obsahu a na uľahčenie používania internetových stránok využívame súbory cookies. Ide o malé súbory, uložené vo Vašom zariadení. Tieto súbory pomáhajú internetovej stránke zapamätať si informácie o Vás, napríklad v akom jazyku prezeráte internetové stránky a aké internetové stránky ste už navštívili, čo sú informácie, ktoré budú pre Vašu ďalšiu návštevu užitočné. Vďaka súborom cookies bude pre Vás prezeranie internetovej stránky oveľa pohodlnejšie. Viac si o týchto súboroch môžete prečítať <a href="https://sk.wikipedia.org/wiki/HTTP_cookie" target="_blank">tu</a>. Prehliadač môžete nastaviť tak, aby prijímal, alebo blokoval súbory cookie v prehliadači samostatne. Nemožnosť prijímať súbory cookie však môže obmedziť výkonnosť internetovej stránky.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Zároveň internetové stránky používajú kódy od spoločnosti Google, Inc. (ďalej len „Google“). Na získanie informácií o návštevnosti internetových stránok používame analytické cookies, ktoré zbierajú anonymné informácie o návšteve používateľa za účelom zlepšenia služieb. Marketingové cookies sa používajú na personalizáciu reklamných oznámení, ktoré môžu užívateľov zaujímať.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Táto webová stránka používa internetové služby tretích strán, ktoré zbierajú informácie nezávisle od nás: Universal Analytics (Google Analytics), Google Tag Manager, Google Search Console, Bing Webmaster, Seznam Webmaster.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase; color: #fff;"><strong>Universal Analytics (Google Analytics)</strong></p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Tieto stránky využívajú službu Universal Analytics (Google Analytics), poskytovanú spoločnosťou Google, Inc. (ďalej len „Google“). Služba Universal Analytics (Google Analytics) používa súbory „cookies“, ktoré sú textovými súbormi ukladanými do vášho počítača, umožňujúce analýzu spôsobu používania tejto stránky jej užívateľmi. Informácie vygenerované súborom cookie o používaní stránky (vrátane vašej IP adresy) budú spoločnosťou Google prenesené a uložené na serveroch v Spojených štátoch.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Google bude používať tieto informácie na účely vyhodnocovania používania stránky a vytvárania správ o jej aktivite, určených pre jej prevádzkovateľov, a na poskytovanie ďalších služieb týkajúcich sa činností na stránke a užívania internetu vôbec. Google môže tiež poskytnúť tieto informácie tretím osobám, ak to bude požadované zákonom alebo ak budú takéto tretie osoby spracovávať tieto informácie pre Google. Google nebude spájať vašu IP adresu s akýmikoľvek inými dátami, ktoré má k dispozícii. Používaním tejto stránky súhlasíte so spracovávaním údajov o vás spoločnosťou Google, a to spôsobom ak účelom zhora uvedeným.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Zhromažďované dáta môžu byť zdieľané s ďalšími službami vo vnútri týchto organizácií a môžu byť použité pri personalizácii reklám v ich vlastnej reklamnej sieti. Užívateľské dohody týchto organizácií si môžete prečítať na ich internetových stránkach. Tam môžete tiež odmietnuť zhromažďovanie vašich osobných údajov, napríklad <a href="https://tools.google.com/dlpage/gaoptout?hl=en">tu nájdete blokátor služby Google Analytics</a>. Osobné údaje neodovzdávame iným organizáciám a službám, ktoré nie sú uvedené v našich <a href="ochrana-osobnych-udajov" target="_blank">Zásadách ochrany osobných údajov</a>. Jedinou výnimkou je odovzdávanie informácií podľa zákonných požiadaviek štátnych orgánov, oprávnených na vykonávanie takých úkonov.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Detailné informácie o Universal Analytics (Google Analytics) a ochrane osobných údajov nájdete na <a href="https://policies.google.com/privacy?hl=sk" target="_blank">https://policies.google.com/privacy?hl=sk</a>.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase; color: #fff;"><strong>Google Tag Manager</strong></p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Služba Google Tag Manager je systém pre správu meracích kódov na webových stránkach. Jeho princíp je taký, že sa na web umiestni iba jeden kód a potom sa už prostredníctvom webového rozhrania vkladajú jednotlivé meracie kódy.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Bez súhlasu Prevádzkovateľa nie je dovolené používať internetové stránky inak ako pre vlastnú potrebu (a to ako v celku, tak aj ich jednotlivé časti). Iné využitie podlieha predchádzajúcemu schváleniu zo strany Prevádzkovateľa v súlade s Autorským zákonom. Prístup na tieto internetové stránky a ich použitie je bezplatné.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Je zakázané akýmkoľvek spôsobom zasahovať bez súhlasu Prevádzkovateľa do technickej podstaty či obsahu internetových stránok. Iba Prevádzkovateľ má právo rozhodovať o zmene, odstránení či doplnení akejkoľvek súčasti týchto internetových stránok.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Niektoré z informácií publikovaných na internetových stránkach preberá Prevádzkovateľ z iných zdrojov, ktoré pokladá za dôveryhodné. Napriek tomu Prevádzkovateľ v žiadnom prípade nezodpovedá za správnosť a aktuálnosť zverejnených informácií.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Prevádzkovateľ nenesie žiadnu zodpovednosť za prípadné škody, ktoré užívateľom môžu vzniknúť v súvislosti s používaním internetových stránok. Prevádzkovateľ tiež nenesie žiadnu zodpovednosť za reklamu, príp. inú formu propagácie vykonávanú akýmkoľvek tretím subjektom prostredníctvom týchto internetových stránok. Prevádzkovateľ ďalej nenesie žiadnu zodpovednosť za obsah internetových stránok patriacich tretím subjektom, ktoré je možné navštíviť prostredníctvom týchto internetových stránok.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">S výnimkou týchto Podmienok nemá zverejnenie akýchkoľvek údajov či informácií na internetových stránkach povahu žiadneho právneho úkonu smerujúceho k vzniku právneho vzťahu medzi Prevádzkovateľom a užívateľom siete Internet, pokiaľ nebude v jednotlivých prípadoch uvedené inak.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Tieto Podmienky je oprávnený meniť či dopĺňať iba Prevádzkovateľ. Právne vzťahy, ktoré medzi Prevádzkovateľom a užívateľom týchto internetových stránok vznikli pred zmenou či zrušením Podmienok sa riadia podľa znenia účinného ku dňu vzniku týchto vzťahov.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Podmienky používania internetových stránok sú platné a účinné dňom ich zverejnenia. Podmienky boli zverejnené dňa 11. 11. 2021.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="footer bg-color ptb_100">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="footer-logo mb_20"><img src="./Carboland/Carboland-Logo-footer.png" alt="Carboland s.r.o. | Elegancia v každom vlákne." /></div>
+<div class="copyright-part mb_10 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;"><b>® Carboland s.r.o. 2020 | ELEGANCIA V KAŽDOM VLÁKNE.</b></div>
+<div class="social_icon wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+<ul>
+<li><a href="https://www.facebook.com/Carboland" target="_blank" title="Facebook"><i class="fa fa-facebook border-icon rounded-icon"></i></a></li>
+<li><a href="https://www.instagram.com/carboland.official/" target="_blank" title="Instagram"><i class="fa fa-instagram border-icon rounded-icon"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCF_UbR3F0y5CRBLSahxBfKw?sub_confirmation=1" target="_blank" title="Youtube"><i class="fa fa-youtube border-icon rounded-icon"></i></a></li>
+</ul>
+<ul>
+<li><a style="color: #ffc107;" title="Slovenčina"><strong>SK</strong></a></li>
+<li><a href="https://www.carboland.cz/podminky-pouziti" style="color: white;" title="Čeština"><strong>CZ</strong></a></li>
+<li><a href="https://www.carboland.eu/terms-of-use" style="color: white;" title="Angličtina"><strong>EN</strong></a></li>
+<li><a href="https://www.carboland.ru/usloviya-ispolzovaniya" style="color: white;" title="Ruština"><strong>RU</strong></a></li>
+<li><a href="https://www.carboland.de/nutzungsbedingungen" style="color: white;" title="Němčina"><strong>DE</strong></a></li>
+</ul>
+<br/>
+<div class="copyright-part mb_10 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;"><a href="ochrana-osobnych-udajov" style="color: white; text-transform: uppercase;"><strong>Ochrana osobných údajov</strong></a>&nbsp;|&nbsp;<a href="podmienky-pouzitia" style="color: #ffc107; text-transform: uppercase;"><strong>Podmienky použitia</strong></a><br/><a href="zasady-pouzivania-suborov-cookie" style="color: white; text-transform: uppercase;"><strong>Zásady používania súborov cookies</strong></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="./Carboland/jQuery_v3.1.1.min.js"></script>
+<script src="./Carboland/owl.carousel.min.js"></script>
+<script src="./Carboland/bootstrap.min.js"></script>
+<script src="./Carboland/isotope.pkgd.min.js"></script>
+<script src="./Carboland/letters-type.js"></script>
+<script src="./Carboland/custom.js"></script>
+<script src="./Carboland/menu.js"></script>
+<script src="./Carboland/particles.js"></script>
+<script src="./Carboland/app.js"></script>
+<script src="./Carboland/circle-progress.js"></script>
+<script src="./Carboland/circle-progress-examples.js"></script>
+<script src="./Carboland/js"></script>
+<script src="./Carboland/parallax.js"></script>
+<script src="./Carboland/wow.js"></script>
+<script src="./Carboland/mail.js"></script>
+</body></html>

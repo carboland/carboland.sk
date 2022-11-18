@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style>.dismissButton{background-color:#fff;border:1px solid #dadce0;color:#1a73e8;border-radius:4px;font-family:Roboto,sans-serif;font-size:14px;height:36px;cursor:pointer;padding:0 24px}.dismissButton:hover{background-color:rgba(66,133,244,0.04);border:1px solid #d2e3fc}.dismissButton:focus{background-color:rgba(66,133,244,0.12);border:1px solid #d2e3fc;outline:0}.dismissButton:hover:focus{background-color:rgba(66,133,244,0.16);border:1px solid #d2e2fd}.dismissButton:active{background-color:rgba(66,133,244,0.16);border:1px solid #d2e2fd;box-shadow:0 1px 2px 0 rgba(60,64,67,0.3),0 1px 3px 1px rgba(60,64,67,0.15)}.dismissButton:disabled{background-color:#fff;border:1px solid #f1f3f4;color:#3c4043}
+</style><style>.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}
+</style><style>.gm-control-active>img{box-sizing:content-box;display:none;left:50%;pointer-events:none;position:absolute;top:50%;transform:translate(-50%,-50%)}.gm-control-active>img:nth-child(1){display:block}.gm-control-active:hover>img:nth-child(1),.gm-control-active:active>img:nth-child(1){display:none}.gm-control-active:hover>img:nth-child(2),.gm-control-active:active>img:nth-child(3){display:block}
+</style><link type="text/css" rel="stylesheet" href="./Carboland/css"><style>.gm-ui-hover-effect{opacity:.6}.gm-ui-hover-effect:hover{opacity:1}
+</style><style>.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px;box-sizing:border-box}
+</style><style>@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style>.gm-style-pbc{transition:opacity ease-in-out;background-color:rgba(0,0,0,0.45);text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
+</style><style>.gm-style img{max-width: none;}.gm-style {font: 400 11px Roboto, Arial, sans-serif; text-decoration: none;}</style>
+<title>Ochrana osobných údajov | GDPR</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="keywords" content="Carboland, Carboland s.r.o., Spoločnosť Carboland, Firma Carboland, Uhlíkové vlákno, Výroba z Karbónu, karbón výroba, Carbón, Fibre, Carbon Fibre, Karbón, Karbónové, Karbónové výrobky, Výrobky z Karbónu, Práca na Karbóne, Karbónové Vlákno, Composit, Kevlar, Aramid, Vacuum infusion, carboland.sk, Carboland SK, Carboland výroba, Carboland sro, Carboland sro, Česká republika, výroba z karbónu v Českej republike, uhlíkové vlákno Česká republika, výroba ČR, výroba, uhlík, Carbon určený pre teba, vysoká odolnosť , odolnosť výrobku, carbon odolnosť" />
+<meta name="distribution" content="global" />
+<meta name="application-name" content="Ochrana osobných údajov | GDPR" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow, snippet, archive" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="viewport" content="width=device-width" />
+<meta name="publisher" content="Carboland s.r.o." />
+<meta name="og:phone_number" content="+420 732 272 375" />
+<meta name="og:email" content="info@carboland.sk" />
+<meta name="subject" content="Carboland s.r.o." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Ochrana osobných údajov | GDPR" />
+<meta name="twitter:image:src" content="https://www.carboland.sk/Carboland/Carboland.jpg" />
+<meta name="coverage" content="Slovensko" />
+<meta property="og:title" content="Ochrana osobných údajov | GDPR" />
+<meta property="og:url" content="https://www.carboland.sk/ochrana-osobnych-udajov" />
+<meta property="og:site_name" content="Ochrana osobných údajov | GDPR" />
+<meta property="og:type" content="website" />
+<meta property="article:tag" content="Carboland, Carboland s.r.o., Spoločnosť Carboland, Firma Carboland, Uhlíkové vlákno, Výroba z Karbónu, karbón výroba, Carbón, Fibre, Carbon Fibre, Karbón, Karbónové, Karbónové výrobky, Výrobky z Karbónu, Práca na Karbóne, Karbónové Vlákno, Composit, Kevlar, Aramid, Vacuum infusion, carboland.sk, Carboland SK, Carboland výroba, Carboland sro, Carboland sro, Česká republika, výroba z karbónu v Českej republike, uhlíkové vlákno Česká republika, výroba ČR, výroba, uhlík, Carbon určený pre teba, vysoká odolnosť , odolnosť výrobku, carbon odolnosť" />
+<meta property="og:image" content="https://www.carboland.sk/Carboland/Carboland.jpg" />
+<meta property="og:latitude" content="49.14654840589657" />
+<meta property="og:longitude" content="17.82768260268157" />
+<meta property="og:street-address" content="Sehradice 217" />
+<meta property="og:locality" content="Sehradice" />
+<meta property="og:postal-code" content="763 23" />
+<meta property="og:country-name" content="Česká republika" />
+<link rel="icon" href="./Carboland/favicon.png" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./Carboland/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/menu.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/style2.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/style1.css" id="colors" />
+<link rel="stylesheet" type="text/css" href="./Carboland/animation.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/owl.carousel.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="canonical" href="https://www.carboland.sk/ochrana-osobnych-udajov" />
+<link rel="alternate" href="https://www.carboland.cz/ochrana-osobnich-udaju" hreflang="cs-cz" />
+<link rel="alternate" href="https://www.carboland.de/datenschutzerklarung" hreflang="de-de" />
+<link rel="alternate" href="https://www.carboland.at/datenschutzerklarung" hreflang="de-at" />
+<link rel="alternate" href="https://www.carboland.eu/privacy-policy" hreflang="en-gb" />
+<link rel="alternate" href="https://www.carboland.ru/bezopasnost-i-garantiya-konfidentsialnosti" hreflang="ru-ru" />
+<link rel="alternate" href="https://www.carboland.sk/ochrana-osobnych-udajov" hreflang="sk-sk" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HYXHVCSVK7"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-HYXHVCSVK7');
+</script>
+</head>
+<body oncopy="return false" oncut="return false" oncontextmenu="return false">
+<script type="text/javascript">
+var cpm = {};
+(function(h,u,b){
+var d=h.getElementsByTagName("script")[0],e=h.createElement("script");
+e.async=true;e.src='./Carboland/cookie-consent.js';
+e.onload=function(){u.cookiehub.load(b);};
+d.parentNode.insertBefore(e,d);
+})(document,window,cpm);
+</script>
+<div class="loder" style="display: none;">
+<div class="cssload-container">
+<div class="cssload-circle-1">
+<div class="cssload-circle-2">
+<div class="cssload-circle-3">
+<div class="cssload-circle-4">
+<div class="cssload-circle-5">
+<div class="cssload-circle-6">
+<div class="cssload-circle-7">
+<div class="cssload-circle-8">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wrapper">
+<header id="header" style="background: rgba(0, 0, 0, 0); padding: 20px 0px;">
+<div class="header navbar">
+<div class="container-fluid">
+<div id="navbarCollapse" class="navbar-collapse navbar-right">
+<!-- Menu Nav !-->
+</div>
+</div>
+</div>
+</header>
+<section id="ochrana-osobnych-udajov" class="ptb_100">
+<div class="about">
+<div class="container">
+<div class="about-inner">
+<div class="row">
+<div class="col-md-7">
+<div class="about-text">
+<div class="about-heading-wrap">
+<br/>
+<h2 class="about-heading mb_40 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">GDPR</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Zásady ochrany osobných údajov</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Spoločnosť <a href="https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=1002958&typ=UPLNY" target="_blank">Carboland s.r.o.</a>, spisová značka: C 104458 Krajský súd v Brne, IČO: 06818137, DIČ: CZ06818137, so sídlom <a href="https://www.google.sk/maps/place/Sehradice+217,+763+23+Sehradice/@49.1465221,17.8254644,17z/data=!3m1!4b1!4m5!3m4!1s0x4713706cec52a5b3:0xaff658778cd89a17!8m2!3d49.1465186!4d17.8276531?hl=sk" target="_blank">Sehradice 217, 763 23 Sehradice, Česká republika</a>, prevádzkovateľ webovej stránky (ďalej len Správa) <a href="https://www.carboland.sk/">www.carboland.sk</a>, vyhlasuje, že všetky osobné údaje sú považované za prísne dôverné a je s nimi nakladané v súlade s platnými zákonnými ustanoveniami v oblasti ochrany osobných údajov.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Bezpečie Vašich osobných údajov je pre nás prioritou. Osobným údajom a ich ochrane preto venujeme náležitú pozornosť. V týchto Zásadách ochrany osobných údajov nájdete informácie o tom, aké osobné údaje o vás zhromažďujeme, na aké účely ich používame, ako dlho ich uchovávame, komu ich môžeme odovzdávať. V Zásadách ochrany osobných údajov vás tiež informujeme o tom, aké práva máte v súvislosti so spracovaním Vašich osobných údajov.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Správa webovej stránky <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a> sa zaväzuje dodržiavať zásady ochrany Vašich osobných údajov na Internete. Kladieme veľký dôraz na ochranu poskytovaných údajov. Naše zásady ochrany osobných údajov sú založené na <a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_cs" target="_blank">ustanoveniach Všeobecných predpisov pre ochranu osobných údajov Európskej únie (GDPR)</a>. Účely, na ktoré zhromažďujeme osobné údaje, sú tieto: zlepšenie našich služieb, komunikácia s návštevníkmi tejto webovej stránky, poskytovanie informácií, požadovaných užívateľom, poskytovanie služieb, súvisiacich so zameraním činnosti predmetnej webovej stránky, a tiež pre nasledujúce úkony.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Zhromažďovanie a používanie osobných údajov</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Osobné údaje zhromažďujeme a používame iba v prípade vášho dobrovoľného súhlasu. Pokiaľ s tým budete súhlasiť, povoľujete nám zhromažďovať a používať nasledujúce údaje: meno a priezvisko, e-mailová adresa, telefónne číslo. Zhromažďovanie a spracovanie Vašich údajov prebieha v súlade s právnymi predpismi, platnými na území Európskej únie a štátu Českej republiky.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Ukladanie, úprava a mazanie dát</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Užívateľ, ktorý poskytol svoje osobné údaje webovým stránkam <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a>, má oprávnenie naďalej ich upravovať aj mazať, rovnako ako odvolať svoj súhlas s ich použitím. Doba, počas ktorej budú Vaše osobné údaje uložené je čas potrebný na využitie údajov pre hlavnú činnosť webovej stránky. V prípade ukončenia používania Vašich údajov ich správa webovej stránky odstráni. Pre prístup k vašim osobným údajom môžete kontaktovať správu webovej stránky na adrese: <a href="mailto:info@carboland.sk">info@carboland.sk</a>. Vaše osobné údaje môžeme poskytnúť tretím stranám iba s Vaším dobrovoľným súhlasom, pokiaľ však už boli prevedené, potom tieto údaje nemôžeme meniť, ak sú už uvedené u iných organizácií, ktoré s nami nesúvisia.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Využitie technických údajov pri návšteve webovej stránky</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Keď navštívite webovú stránku <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a>, budú v databáze uložené záznamy o Vašej IP adrese, čase návštevy, nastavení prehliadača, operačnom systéme a ďalších technických informáciách, potrebných pre správne zobrazenie obsahu webovej stránky. Podľa týchto údajov však identifikovať totožnosť návštevníka nemôžeme.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Poskytovanie informácií deťmi</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Pokiaľ ste rodičom, alebo opatrovníkom a zistili ste, že Vaše deti nám poskytli svoje osobné údaje bez Vášho súhlasu, kontaktujte nás: <a href="mailto:info@carboland.sk">info@carboland.sk</a>. Naša služba zakazuje ukladať osobné údaje maloletých bez súhlasu rodičov alebo opatrovníkov.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Využívanie súborov cookies</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Keď prvýkrát navštívite našu internetovú stránku <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a>, ukáže sa vám banner s upozornením na použitie cookies a s vysvetlením čo sú to súbory cookies na našej internetovej stránke <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a>. V Nastavenia máte možnosť Povoliť a tiež Odmietnuť použitie cookies. Akonáhle kliknete na "Potvrdiť vybrané", súhlasíte s používaním kategórií súborov cookies a pluginov, ktoré ste vybrali v rozbaľovacej ponuke "Nastavenie cookies". Používanie cookies môžete zakázať pomocou svojho prehliadača, ale majte na pamäti, že naše webové stránky <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a> už nemusia fungovať správne.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Na správne zobrazenie obsahu a na uľahčenie používania webových stránok <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a> využívame súbory cookies. Ide o malé súbory, uložené vo Vašom zariadení. Tieto súbory pomáhajú webovej stránke zapamätať si informácie o Vás, napríklad v akom jazyku prezeráte stránky a aké stránky ste už navštívili, čo sú informácie, ktoré budú pre Vašu ďalšiu návštevu užitočné. Vďaka súborom cookies bude pre Vás prezeranie webovej stránky oveľa pohodlnejšie. Viac si o týchto súboroch môžete prečítať <a href="https://sk.wikipedia.org/wiki/HTTP_cookie" target="_blank" style="color: white;">tu</a>. Prehliadač môžete nastaviť tak, aby prijímal, alebo blokoval súbory cookie v prehliadači samostatne. Nemožnosť prijímať súbory cookie však môže obmedziť výkonnosť webovej stránky.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Prečítať si viac o používaní súborov cookies môžete <a href="zasady-pouzivania-suborov-cookie" target="_blank" style="color: white;"><strong>TU</strong></a>.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Využitie osobných údajov inými službami</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Táto webová stránka používa internetové služby tretích strán, ktoré zbierajú informácie nezávisle od nás: Universal Analytics (Google Analytics), Google Tag Manager, Google Search Console, Bing Webmaster, Seznam Webmaster.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase; color: #fff;"><strong>Universal Analytics (Google Analytics)</strong></p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Tieto stránky využívajú službu Universal Analytics (Google Analytics), poskytovanú spoločnosťou Google, Inc. (ďalej len „Google“). Služba Universal Analytics (Google Analytics) používa súbory „cookies“, ktoré sú textovými súbormi ukladanými do vášho počítača, umožňujúce analýzu spôsobu používania tejto stránky jej užívateľmi. Informácie vygenerované súborom cookie o používaní stránky (vrátane vašej IP adresy) budú spoločnosťou Google prenesené a uložené na serveroch v Spojených štátoch.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Google bude používať tieto informácie na účely vyhodnocovania používania stránky a vytvárania správ o jej aktivite, určených pre jej prevádzkovateľov, a na poskytovanie ďalších služieb týkajúcich sa činností na stránke a užívania internetu vôbec. Google môže tiež poskytnúť tieto informácie tretím osobám, ak to bude požadované zákonom alebo ak budú takéto tretie osoby spracovávať tieto informácie pre Google. Google nebude spájať vašu IP adresu s akýmikoľvek inými dátami, ktoré má k dispozícii. Používaním tejto stránky súhlasíte so spracovávaním údajov o vás spoločnosťou Google, a to spôsobom ak účelom zhora uvedeným.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Zhromažďované dáta môžu byť zdieľané s ďalšími službami vo vnútri týchto organizácií a môžu byť použité pri personalizácii reklám v ich vlastnej reklamnej sieti. Užívateľské dohody týchto organizácií si môžete prečítať na ich webových stránkach. Tam môžete tiež odmietnuť zhromažďovanie vašich osobných údajov, napríklad <a href="https://tools.google.com/dlpage/gaoptout?hl=en" target="_blank">tu nájdete blokátor služby Google Analytics</a>. Osobné údaje neodovzdávame iným organizáciám a službám, ktoré nie sú uvedené v týchto zásadách ochrany osobných údajov. Jedinou výnimkou je odovzdávanie informácií podľa zákonných požiadaviek štátnych orgánov, oprávnených na vykonávanie takých úkonov.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Detailné informácie o Universal Analytics (Google Analytics) a ochrane osobných údajov nájdete na <a href="https://policies.google.com/privacy?hl=sk" target="_blank">https://policies.google.com/privacy?hl=sk</a>.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase; color: #fff;"><strong>Google Tag Manager</strong></p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Služba Google Tag Manager je systém pre správu meracích kódov na webových stránkach. Jeho princíp je taký, že sa na web umiestni iba jeden kód a potom sa už prostredníctvom webového rozhrania vkladajú jednotlivé meracie kódy.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Odkazy na iné webové stránky</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Naše webové stránky <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a> môžu obsahovať odkazy na iné webové stránky, ktoré nie sú nami prevádzkované. Za ich obsah nenesieme zodpovednosť. Odporúčame, aby ste si prečítali zásady ochrany osobných údajov na tých webových stránkach, ktoré ste navštívili, pokiaľ sú tam uvedené.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Zmeny zásad ochrany osobných údajov</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Naše webové stránky <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a> môžu občas aktualizovať svoje zásady ochrany osobných údajov. Všetky zmeny oznamujeme formou zverejňovania nových zásad ochrany osobných údajov na tejto stránke. Sledujeme zmeny v legislatíve, týkajúce sa ochrany osobných údajov v Európskej únii av štáte Česká republika. Pokiaľ ste nám zverili svoje osobné údaje, upozorníme Vás na prípadnú zmenu zásad ochrany osobných údajov. Pokiaľ boli Vaše kontaktné údaje zadané nesprávne, potom Vás kontaktovať nemôžeme.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Spätná väzba, záverečné ustanovenia</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Ak máte akékoľvek otázky, súvisiace so zásadami ochrany osobných údajov, kontaktujte správcu webovej stránky <a href="https://www.carboland.sk/#contact" target="_blank">www.carboland.sk</a>, cez: <a href="mailto:info@carboland.sk">info@carboland.sk</a>, alebo využite kontaktný formulár, uvedený v príslušnej časti tejto webovej stránky. Pokiaľ s týmito zásadami ochrany osobných údajov nesúhlasíte, nemôžete naďalej využívať služby webovej stránky <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a>. V takom prípade sa musíte vzdať možnosti navštevovať naše webové stránky.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Uplatnenie práv a postupov vyššie uvedených nijako neobmedzuje vaše právo podať sťažnosť na príslušnom dozornom orgáne. Toto právo môžete využiť najmä ak sa domnievate, že vaše osobné údaje spracovávame neoprávnene alebo v rozpore so všeobecne záväznými právnymi predpismi. Subjektom na vybavovanie sťažností zákazníkov je Úrad pre ochranu osobných údajov, so sídlom Pplk. Sochora 27, 170 00 Praha 7, Česká republika, IČO: 70837627.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Účinnosť</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Tieto Zásady ochrany osobných údajov webovej stránky <a href="https://www.carboland.sk/" target="_blank">www.carboland.sk</a> sú platné a účinné od 14. 10. 2020.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="footer bg-color ptb_100">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="footer-logo mb_20"><img src="./Carboland/Carboland-Logo-footer.png" alt="Carboland s.r.o. | Elegancia v každom vlákne." /></div>
+<div class="copyright-part mb_10 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;"><b>® Carboland s.r.o. 2020 | ELEGANCIA V KAŽDOM VLÁKNE.</b></div>
+<div class="social_icon wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+<ul>
+<li><a href="https://www.facebook.com/Carboland" target="_blank" title="Facebook"><i class="fa fa-facebook border-icon rounded-icon"></i></a></li>
+<li><a href="https://www.instagram.com/carboland.official/" target="_blank" title="Instagram"><i class="fa fa-instagram border-icon rounded-icon"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCF_UbR3F0y5CRBLSahxBfKw?sub_confirmation=1" target="_blank" title="Youtube"><i class="fa fa-youtube border-icon rounded-icon"></i></a></li>
+</ul>
+<ul>
+<li><a style="color: #ffc107;" title="Slovenčina"><strong>SK</strong></a></li>
+<li><a href="https://www.carboland.cz/ochrana-osobnich-udaju" style="color: white;" title="Čeština"><strong>CZ</strong></a></li>
+<li><a href="https://www.carboland.eu/privacy-policy" style="color: white;" title="Angličtina"><strong>EN</strong></a></li>
+<li><a href="https://www.carboland.ru/bezopasnost-i-garantiya-konfidentsialnosti" style="color: white;" title="Ruština"><strong>RU</strong></a></li>
+<li><a href="https://www.carboland.de/datenschutzerklarung" style="color: white;" title="Němčina"><strong>DE</strong></a></li>
+</ul>
+<br/>
+<div class="copyright-part mb_10 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;"><a href="ochrana-osobnych-udajov" style="color: #ffc107; text-transform: uppercase;"><strong>Ochrana osobných údajov</strong></a>&nbsp;|&nbsp;<a href="podmienky-pouzitia" style="color: white; text-transform: uppercase;"><strong>Podmienky použitia</strong></a><br/><a href="zasady-pouzivania-suborov-cookie" style="color: white; text-transform: uppercase;"><strong>Zásady používania súborov cookies</strong></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="./Carboland/jQuery_v3.1.1.min.js"></script>
+<script src="./Carboland/owl.carousel.min.js"></script>
+<script src="./Carboland/bootstrap.min.js"></script>
+<script src="./Carboland/isotope.pkgd.min.js"></script>
+<script src="./Carboland/letters-type.js"></script>
+<script src="./Carboland/custom.js"></script>
+<script src="./Carboland/menu.js"></script>
+<script src="./Carboland/particles.js"></script>
+<script src="./Carboland/app.js"></script>
+<script src="./Carboland/circle-progress.js"></script>
+<script src="./Carboland/circle-progress-examples.js"></script>
+<script src="./Carboland/js"></script>
+<script src="./Carboland/parallax.js"></script>
+<script src="./Carboland/wow.js"></script>
+<script src="./Carboland/mail.js"></script>
+</body></html>
